@@ -11,6 +11,10 @@ Timeline - My visualization will include highlighted information concerning majo
 Story - Fossil fuel carbon dioxide emissions have drastically increased over the last few decades, resulting in significant global events. Understanding how individual countries, different regions, and the globe have increased emissions is critical to realizing the trend and path of emissions. 
 
 # Data
+My primary data source is the Carbon Dioxide Information Analysis Center (CDIAC) and the U.S. Department of Energy's (DOE) Environmental System Science Data Infrastructure for a Virtual Ecosystem (ESS-DIVE). These sources are designed to provide long-term stewardship and use of data from observational, experimental, and modeling activities in the DOE in the Subsurface Biogeochemical Research (SBR) and Terrestrial Ecosystem Science (TES) Programs in the Environmental System Science (ESS) activity. 
 
+The data source provides fossil fuel carbon dioxide emissions information on all countries from the first year that the data was recorded through 2018. The values will be in metric tons of carbon dioxide emitted. 
 
 The link to my primary data source is: https://cdiac.ess-dive.lbl.gov/trends/emis/tre_coun.html 
+
+# Method & Medium
