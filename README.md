@@ -1,5 +1,5 @@
 # Final-Project
-This page will be the location of all Final Project materials. The link back to my main page is 
+This page will be the location of all Final Project materials. The link back to my main page is https://tjhusna.github.io/Hall-Portfolio/
 
 # Outline
 Summary - For my final project, I would like to visualize annual fossil fuel carbon dioxide emissions by country around the world. 
