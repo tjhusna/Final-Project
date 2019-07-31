@@ -23,8 +23,10 @@ The link to my primary data source is: https://cdiac.ess-dive.lbl.gov/trends/emi
 # Method & Medium
 I intend to use shorthand as my primary story telling tool. Using the data provide by CDIAC/DOE, I'll create two visualizations. The first visualization will be a global heat map showing increases in fossil fuel emissions by country via a time lapse function. For the heat map, I plan to use a visualization mapping tool called Target Maps. The second visualization will be a line graph showing major regions, with the y-axis being the emissions values and the x-axis being the year. For this visualization, I plan on using datawrapper. On the line graph visualization, I will also highlight points at which there have been major global events related to fossil fuel emissions. 
 
-# Wireframe
-
 # User Research Protocol & Findings
+For User Research Protocol, Script, & Findings, see IMG_5223, 5224, and 5225
 
-# Updated Wireframe
+# Wireframe
+For updated wireframe, see IMG_5226
+
+
